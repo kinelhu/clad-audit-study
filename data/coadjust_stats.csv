@@ -1,0 +1,8 @@
+metric,value
+phi_demo_casemix_mean,0.13
+phi_demo_casemix_pct_pos,88
+phi_immuno_mean,0.04
+phi_immuno_pct_pos,64
+imm_pairs_sig,6
+imm_pairs_total,36
+imm_n_covars,9
