@@ -1,0 +1,29 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Kinan El Husseini
+
+The derived data in `data/` — the study-level analysis frame, the classifier output, the covariate
+panel and its anchors, the full-text exclusion list, the PRISMA checklist, the validation coding
+sheets and the re-scoring comparison — is licensed under CC BY 4.0.
+
+    https://creativecommons.org/licenses/by/4.0/
+
+You are free to share and adapt this material for any purpose, including commercially, provided you
+give appropriate credit, link to the licence, and indicate if changes were made.
+
+SCOPE AND THIRD-PARTY RIGHTS
+
+This licence covers the derived data produced by this project. It does not and cannot grant rights
+over the underlying publications:
+
+  - Bibliographic metadata (PubMed identifiers, DOIs, titles, journals, years, authorship) originates
+    from PubMed/NLM. PubMed abstracts are copyrighted by their publishers; NLM grants no
+    redistribution right, and the `abstract` column has been removed from every file here.
+
+  - Full texts of the audited studies are NOT included. They were obtained under institutional
+    subscriptions and publisher text-mining agreements that permit analysis but not republication.
+    Every audited study is identified by PubMed ID and DOI so the corpus can be reconstructed by
+    anyone with equivalent access.
+
+  - Scores and extracted values describe what each publication reports. They are observations about
+    those publications, not reproductions of them.

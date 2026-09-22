@@ -1,0 +1,37 @@
+key,tier,label,min_set,recommended,conditional,trigger
+indication_mix,A,Indication / diagnosis mix,False,False,False,
+procedure,A,Single vs bilateral,False,False,False,
+era,A,Era / accrual window,False,False,False,
+center_structure,A,Center structure,False,False,False,
+sample_followup,A,Sample size & follow-up,False,False,False,
+donor_type,A,Donor type DBD/DCD,False,False,False,
+evlp,A,EVLP use,False,False,False,
+race_ethnicity,A,Race / ethnicity,False,True,False,
+cmv_dr,B,CMV D/R serostatus,True,False,False,
+hla_mismatch,B,HLA mismatch,True,False,False,
+pre_tx_dsa,B,Pre-tx DSA / cPRA,False,True,False,
+de_novo_dsa,B,De novo DSA,False,True,False,
+induction,B,Induction regimen,False,False,False,
+maintenance_is,B,Maintenance IS,True,False,False,
+acr,B,ACR burden,True,False,False,
+amr,B,AMR,True,False,False,
+pgd,C,PGD grade,False,False,False,
+cmv_events,C,CMV infection/disease events,False,False,False,
+resp_viral,C,Respiratory viral infections,False,False,False,
+colonization,C,Pseudomonas/Aspergillus colonization,False,False,False,
+gerd,C,GERD / aspiration,False,False,False,
+azithromycin,C,Azithromycin,False,True,False,
+telomere,D,Telomere length / workup,False,False,True,fibrotic-ILD/IPF recipients present
+pre_tx_is,D,Pre-tx immunosuppression exposure,False,False,True,CTD-ILD/IPF/sarcoid present
+antifibrotic,D,Antifibrotic exposure,False,False,True,IPF/PF recipients present
+cni_ipv,D,CNI intra-patient variability,False,False,True,CNI-level scope
+cyp3a5,D,CYP3A5 pharmacogenomics,False,False,True,PGx substudy scope
+nonhla_ab,D,Non-HLA antibodies,False,True,False,
+eplet_mm,D,Eplet / molecular HLA mismatch,False,True,True,HLA typing reported
+clad_definition,E,CLAD definition,False,False,False,
+phenotyping,E,Phenotyping (BOS/RAS/mixed),False,False,False,
+nrad_exclusion,E,Reversible/azithromycin-responsive dysfunction excluded,False,False,False,
+clad_staging,E,CLAD severity staging,False,False,False,
+baseline_fev1,E,Baseline FEV1 method,False,False,False,
+competing_risk,E,Death as competing risk,False,False,True,time-to-event analysis of CLAD
+followup_censoring,E,Follow-up / censoring,False,False,True,time-to-event analysis of CLAD

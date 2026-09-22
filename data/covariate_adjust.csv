@@ -1,0 +1,1244 @@
+pmid,concept,label
+15636621,acr,ACR burden
+15636621,hla_mismatch,HLA mismatch
+15699755,acr,ACR burden
+15699755,cmv_dr,CMV D/R serostatus
+15699755,hla_mismatch,HLA mismatch
+15699755,ischemic_time,Ischemic time
+15797750,age,Age
+15896756,cmv_dr,CMV D/R serostatus
+15896756,hla_mismatch,HLA mismatch
+15996255,cmv_dr,CMV D/R serostatus
+15996255,hla_mismatch,HLA mismatch
+16303014,acr,ACR burden
+16303014,indication_mix,Indication / diagnosis mix
+16340783,cmv_dr,CMV D/R serostatus
+16340783,hla_mismatch,HLA mismatch
+16368382,age,Age
+16368382,indication_mix,Indication / diagnosis mix
+16368382,induction,Induction regimen
+16368382,sex,Sex / gender
+16407509,age,Age
+16407509,cmv_dr,CMV D/R serostatus
+16407509,comorbidity,Comorbidity
+16407509,hla_mismatch,HLA mismatch
+16407509,indication_mix,Indication / diagnosis mix
+16407509,ischemic_time,Ischemic time
+16407509,maintenance_is,Maintenance IS
+16407509,procedure,Single vs bilateral
+16407509,sex,Sex / gender
+16433773,acr,ACR burden
+16433773,age,Age
+16433773,indication_mix,Indication / diagnosis mix
+16433773,procedure,Single vs bilateral
+16433773,sex,Sex / gender
+16570009,age,Age
+16570009,procedure,Single vs bilateral
+16570009,sex,Sex / gender
+17158279,acr,ACR burden
+17158279,pgd,PGD grade
+17217435,procedure,Single vs bilateral
+17318076,cmv_events,CMV infection/disease events
+17318076,phenotyping,Phenotyping (BOS/RAS/mixed)
+17767432,age,Age
+17767432,sex,Sex / gender
+17976973,baseline_fev1,Baseline FEV1 method
+18022078,baseline_fev1,Baseline FEV1 method
+18022078,sex,Sex / gender
+18192909,baseline_fev1,Baseline FEV1 method
+18192909,colonization,Pseudomonas/Aspergillus colonization
+18192909,gerd,GERD / aspiration
+18192909,indication_mix,Indication / diagnosis mix
+18192909,maintenance_is,Maintenance IS
+18192909,phenotyping,Phenotyping (BOS/RAS/mixed)
+18263803,acr,ACR burden
+18263803,era,Era / accrual window
+18263803,ischemic_time,Ischemic time
+18329476,age,Age
+18329476,cmv_dr,CMV D/R serostatus
+18329476,indication_mix,Indication / diagnosis mix
+18329476,induction,Induction regimen
+18503962,age,Age
+18503962,bmi,Body mass index
+18503962,indication_mix,Indication / diagnosis mix
+18503962,sex,Sex / gender
+18785961,acr,ACR burden
+18785961,pgd,PGD grade
+19104434,hla_mismatch,HLA mismatch
+19117741,colonization,Pseudomonas/Aspergillus colonization
+19134524,acr,ACR burden
+19134524,era,Era / accrual window
+19134524,indication_mix,Indication / diagnosis mix
+19134524,race_ethnicity,Race / ethnicity
+19201342,acr,ACR burden
+19201342,colonization,Pseudomonas/Aspergillus colonization
+19295317,acr,ACR burden
+19295317,age,Age
+19295317,colonization,Pseudomonas/Aspergillus colonization
+19303808,acr,ACR burden
+19416775,acr,ACR burden
+19453645,acr,ACR burden
+19453645,age,Age
+19453645,cmv_events,CMV infection/disease events
+19453645,procedure,Single vs bilateral
+19453645,sex,Sex / gender
+19459819,acr,ACR burden
+19459819,colonization,Pseudomonas/Aspergillus colonization
+19461490,acr,ACR burden
+19584692,age,Age
+19584692,baseline_fev1,Baseline FEV1 method
+19584692,indication_mix,Indication / diagnosis mix
+19584692,procedure,Single vs bilateral
+19584692,sex,Sex / gender
+19632576,acr,ACR burden
+19659672,acr,ACR burden
+19659672,cmv_events,CMV infection/disease events
+19659672,indication_mix,Indication / diagnosis mix
+19659672,ischemic_time,Ischemic time
+19659672,phenotyping,Phenotyping (BOS/RAS/mixed)
+19659672,procedure,Single vs bilateral
+19716037,acr,ACR burden
+19716040,baseline_fev1,Baseline FEV1 method
+19716040,sex,Sex / gender
+20013099,gerd,GERD / aspiration
+20167845,acr,ACR burden
+20167845,cmv_dr,CMV D/R serostatus
+20167845,procedure,Single vs bilateral
+20230541,acr,ACR burden
+20230541,procedure,Single vs bilateral
+20417777,age,Age
+20417777,hla_mismatch,HLA mismatch
+20562124,acr,ACR burden
+20562124,age,Age
+20562124,cmv_dr,CMV D/R serostatus
+20562124,procedure,Single vs bilateral
+20562124,sex,Sex / gender
+20619683,cmv_dr,CMV D/R serostatus
+20619683,pgd,PGD grade
+20868794,acr,ACR burden
+20868794,pgd,PGD grade
+20868794,resp_viral,Respiratory viral infections
+21078427,acr,ACR burden
+21169468,acr,ACR burden
+21169468,cmv_dr,CMV D/R serostatus
+21169468,indication_mix,Indication / diagnosis mix
+21169468,procedure,Single vs bilateral
+21169468,sex,Sex / gender
+21232966,age,Age
+21232966,ischemic_time,Ischemic time
+21272237,baseline_fev1,Baseline FEV1 method
+21320711,age,Age
+21320711,indication_mix,Indication / diagnosis mix
+21352378,acr,ACR burden
+21352378,era,Era / accrual window
+21352378,induction,Induction regimen
+21420318,age,Age
+21420318,indication_mix,Indication / diagnosis mix
+21420318,ischemic_time,Ischemic time
+21420318,procedure,Single vs bilateral
+21429899,acr,ACR burden
+21429899,age,Age
+21429899,cmv_dr,CMV D/R serostatus
+21429899,cmv_events,CMV infection/disease events
+21429899,procedure,Single vs bilateral
+21429899,sex,Sex / gender
+21482148,acr,ACR burden
+21482148,procedure,Single vs bilateral
+21716170,phenotyping,Phenotyping (BOS/RAS/mixed)
+21794087,acr,ACR burden
+21794087,cmv_dr,CMV D/R serostatus
+21794087,indication_mix,Indication / diagnosis mix
+21794087,procedure,Single vs bilateral
+21799025,acr,ACR burden
+21817195,age,Age
+22051280,age,Age
+22051280,hla_mismatch,HLA mismatch
+22051280,indication_mix,Indication / diagnosis mix
+22051280,ischemic_time,Ischemic time
+22051280,procedure,Single vs bilateral
+22051280,sex,Sex / gender
+22123337,acr,ACR burden
+22151926,age,Age
+22151926,indication_mix,Indication / diagnosis mix
+22151926,sex,Sex / gender
+22188413,acr,ACR burden
+22188413,hla_mismatch,HLA mismatch
+22188413,phenotyping,Phenotyping (BOS/RAS/mixed)
+22330935,acr,ACR burden
+22330935,age,Age
+22330935,cmv_dr,CMV D/R serostatus
+22330935,indication_mix,Indication / diagnosis mix
+22330935,procedure,Single vs bilateral
+22330935,sex,Sex / gender
+22554673,indication_mix,Indication / diagnosis mix
+22554673,maintenance_is,Maintenance IS
+22568593,acr,ACR burden
+22568593,nonhla_ab,Non-HLA antibodies
+22568593,pgd,PGD grade
+22568593,resp_viral,Respiratory viral infections
+22724524,age,Age
+22902791,acr,ACR burden
+22902791,age,Age
+22902791,indication_mix,Indication / diagnosis mix
+22922656,acr,ACR burden
+22922656,cmv_dr,CMV D/R serostatus
+23239157,age,Age
+23239157,cmv_dr,CMV D/R serostatus
+23239157,indication_mix,Indication / diagnosis mix
+23239157,procedure,Single vs bilateral
+23239157,sex,Sex / gender
+23260704,acr,ACR burden
+23260704,procedure,Single vs bilateral
+23328523,colonization,Pseudomonas/Aspergillus colonization
+23328531,acr,ACR burden
+23328531,colonization,Pseudomonas/Aspergillus colonization
+23328795,de_novo_dsa,De novo DSA
+23328795,era,Era / accrual window
+23328795,pgd,PGD grade
+23328795,pre_tx_dsa,Pre-tx DSA / cPRA
+23331756,acr,ACR burden
+23331756,baseline_fev1,Baseline FEV1 method
+23331756,indication_mix,Indication / diagnosis mix
+23331756,pgd,PGD grade
+23331756,procedure,Single vs bilateral
+23398785,acr,ACR burden
+23398785,age,Age
+23398785,cmv_dr,CMV D/R serostatus
+23398785,colonization,Pseudomonas/Aspergillus colonization
+23398785,procedure,Single vs bilateral
+23536885,acr,ACR burden
+23536885,cmv_events,CMV infection/disease events
+23536885,de_novo_dsa,De novo DSA
+23536885,gerd,GERD / aspiration
+23536885,pgd,PGD grade
+23545509,bmi,Body mass index
+23545509,comorbidity,Comorbidity
+23545509,sex,Sex / gender
+23628225,acr,ACR burden
+23628225,colonization,Pseudomonas/Aspergillus colonization
+23715594,acr,ACR burden
+23715594,age,Age
+23715594,cmv_dr,CMV D/R serostatus
+23715594,cmv_events,CMV infection/disease events
+23715594,era,Era / accrual window
+23715594,procedure,Single vs bilateral
+23715594,sex,Sex / gender
+23841811,age,Age
+23841811,cmv_dr,CMV D/R serostatus
+23841811,procedure,Single vs bilateral
+24063316,acr,ACR burden
+24063316,procedure,Single vs bilateral
+24157472,age,Age
+24157472,indication_mix,Indication / diagnosis mix
+24157472,sex,Sex / gender
+24164971,acr,ACR burden
+24164971,age,Age
+24164971,cmv_dr,CMV D/R serostatus
+24164971,indication_mix,Indication / diagnosis mix
+24164971,sex,Sex / gender
+24263024,age,Age
+24263024,azithromycin,Azithromycin
+24263024,indication_mix,Indication / diagnosis mix
+24263024,sex,Sex / gender
+24512389,age,Age
+24512389,cmv_dr,CMV D/R serostatus
+24512389,procedure,Single vs bilateral
+24512389,sex,Sex / gender
+24621537,acr,ACR burden
+24621537,age,Age
+24621537,azithromycin,Azithromycin
+24621537,procedure,Single vs bilateral
+24621537,sex,Sex / gender
+24685381,acr,ACR burden
+24685381,colonization,Pseudomonas/Aspergillus colonization
+24685381,pgd,PGD grade
+24802006,acr,ACR burden
+24802006,age,Age
+24802006,azithromycin,Azithromycin
+24802006,indication_mix,Indication / diagnosis mix
+24802006,sex,Sex / gender
+25130554,age,Age
+25130554,de_novo_dsa,De novo DSA
+25130554,indication_mix,Indication / diagnosis mix
+25130554,maintenance_is,Maintenance IS
+25130554,sex,Sex / gender
+25266074,age,Age
+25266074,comorbidity,Comorbidity
+25266074,donor_type,Donor type DBD/DCD
+25266074,procedure,Single vs bilateral
+25266074,sex,Sex / gender
+25358842,age,Age
+25358842,era,Era / accrual window
+25358842,indication_mix,Indication / diagnosis mix
+25358842,sex,Sex / gender
+25479016,age,Age
+25479016,comorbidity,Comorbidity
+25479016,ischemic_time,Ischemic time
+25479016,sex,Sex / gender
+25488753,acr,ACR burden
+25488753,hla_mismatch,HLA mismatch
+25533723,acr,ACR burden
+25651311,age,Age
+25651311,cmv_dr,CMV D/R serostatus
+25651311,comorbidity,Comorbidity
+25651311,ischemic_time,Ischemic time
+25651311,pgd,PGD grade
+25651311,pre_tx_dsa,Pre-tx DSA / cPRA
+25651311,procedure,Single vs bilateral
+25651311,sex,Sex / gender
+25683785,acr,ACR burden
+25683785,colonization,Pseudomonas/Aspergillus colonization
+25683785,procedure,Single vs bilateral
+25687798,age,Age
+25687798,sex,Sex / gender
+25707585,age,Age
+25707585,bmi,Body mass index
+25707585,comorbidity,Comorbidity
+25707585,indication_mix,Indication / diagnosis mix
+25707585,ischemic_time,Ischemic time
+25707585,race_ethnicity,Race / ethnicity
+25707585,sex,Sex / gender
+25935436,age,Age
+25935436,indication_mix,Indication / diagnosis mix
+25989360,de_novo_dsa,De novo DSA
+25989360,hla_mismatch,HLA mismatch
+25989360,indication_mix,Indication / diagnosis mix
+26169666,acr,ACR burden
+26169666,de_novo_dsa,De novo DSA
+26169666,pgd,PGD grade
+26169666,pre_tx_dsa,Pre-tx DSA / cPRA
+26177087,acr,ACR burden
+26177087,age,Age
+26177087,indication_mix,Indication / diagnosis mix
+26177087,induction,Induction regimen
+26177087,ischemic_time,Ischemic time
+26186804,acr,ACR burden
+26204790,cmv_dr,CMV D/R serostatus
+26204790,de_novo_dsa,De novo DSA
+26452996,maintenance_is,Maintenance IS
+26461171,acr,ACR burden
+26461171,pgd,PGD grade
+26461171,procedure,Single vs bilateral
+26496787,age,Age
+26496787,baseline_fev1,Baseline FEV1 method
+26496787,bmi,Body mass index
+26496787,comorbidity,Comorbidity
+26496787,era,Era / accrual window
+26496787,hla_mismatch,HLA mismatch
+26496787,indication_mix,Indication / diagnosis mix
+26496787,induction,Induction regimen
+26496787,ischemic_time,Ischemic time
+26496787,lung_function,Lung function
+26496787,race_ethnicity,Race / ethnicity
+26496787,sex,Sex / gender
+26517734,acr,ACR burden
+26517734,age,Age
+26517734,cmv_events,CMV infection/disease events
+26517734,comorbidity,Comorbidity
+26565010,age,Age
+26565010,cmv_dr,CMV D/R serostatus
+26565010,era,Era / accrual window
+26657575,age,Age
+26657575,baseline_fev1,Baseline FEV1 method
+26657575,bmi,Body mass index
+26657575,lung_function,Lung function
+26657575,sex,Sex / gender
+26829054,age,Age
+26829054,comorbidity,Comorbidity
+26829054,era,Era / accrual window
+26829054,hla_mismatch,HLA mismatch
+26829054,ischemic_time,Ischemic time
+26829054,las,Lung allocation score
+26829054,maintenance_is,Maintenance IS
+26829054,procedure,Single vs bilateral
+26829054,race_ethnicity,Race / ethnicity
+26829054,sex,Sex / gender
+26833657,induction,Induction regimen
+26845386,age,Age
+26845386,cmv_dr,CMV D/R serostatus
+26845386,las,Lung allocation score
+26845386,pgd,PGD grade
+26967790,age,Age
+26967790,de_novo_dsa,De novo DSA
+26967790,pre_tx_dsa,Pre-tx DSA / cPRA
+26967790,sex,Sex / gender
+27002311,acr,ACR burden
+27002311,age,Age
+27002311,cmv_events,CMV infection/disease events
+27002311,de_novo_dsa,De novo DSA
+27002311,sex,Sex / gender
+27061510,acr,ACR burden
+27061510,procedure,Single vs bilateral
+27078625,acr,ACR burden
+27078625,age,Age
+27078625,bmi,Body mass index
+27078625,era,Era / accrual window
+27078625,las,Lung allocation score
+27078625,pgd,PGD grade
+27078625,procedure,Single vs bilateral
+27078625,sex,Sex / gender
+27129023,age,Age
+27129023,bmi,Body mass index
+27129023,comorbidity,Comorbidity
+27129023,ischemic_time,Ischemic time
+27129023,las,Lung allocation score
+27129023,race_ethnicity,Race / ethnicity
+27129023,sex,Sex / gender
+27215188,acr,ACR burden
+27215188,age,Age
+27215188,cmv_events,CMV infection/disease events
+27338538,age,Age
+27338538,bmi,Body mass index
+27338538,cmv_dr,CMV D/R serostatus
+27338538,comorbidity,Comorbidity
+27338538,hla_mismatch,HLA mismatch
+27338538,indication_mix,Indication / diagnosis mix
+27338538,sex,Sex / gender
+27358780,age,Age
+27358780,indication_mix,Indication / diagnosis mix
+27358780,sex,Sex / gender
+27373824,de_novo_dsa,De novo DSA
+27373824,indication_mix,Indication / diagnosis mix
+27373824,sex,Sex / gender
+27467538,acr,ACR burden
+27467538,colonization,Pseudomonas/Aspergillus colonization
+27467538,resp_viral,Respiratory viral infections
+27493971,hla_mismatch,HLA mismatch
+27493971,indication_mix,Indication / diagnosis mix
+27664940,acr,ACR burden
+27664940,age,Age
+27664940,indication_mix,Indication / diagnosis mix
+27664940,procedure,Single vs bilateral
+27676455,acr,ACR burden
+27836956,age,Age
+27836956,procedure,Single vs bilateral
+27836956,sex,Sex / gender
+27893614,age,Age
+27893614,procedure,Single vs bilateral
+27893614,sex,Sex / gender
+27931084,de_novo_dsa,De novo DSA
+27931084,maintenance_is,Maintenance IS
+27982503,azithromycin,Azithromycin
+27982503,sex,Sex / gender
+27988981,las,Lung allocation score
+27988981,sex,Sex / gender
+28185711,gerd,GERD / aspiration
+28210278,acr,ACR burden
+28210278,cmv_dr,CMV D/R serostatus
+28210278,procedure,Single vs bilateral
+28244139,age,Age
+28244139,sex,Sex / gender
+28262440,acr,ACR burden
+28262440,pgd,PGD grade
+28262440,telomere,Telomere length / workup
+28375571,age,Age
+28375571,hla_mismatch,HLA mismatch
+28375571,indication_mix,Indication / diagnosis mix
+28375571,procedure,Single vs bilateral
+28375571,race_ethnicity,Race / ethnicity
+28375571,sex,Sex / gender
+28383790,age,Age
+28383790,era,Era / accrual window
+28383790,indication_mix,Indication / diagnosis mix
+28637080,acr,ACR burden
+28662022,acr,ACR burden
+28662022,gerd,GERD / aspiration
+28686641,acr,ACR burden
+28720146,azithromycin,Azithromycin
+28720146,maintenance_is,Maintenance IS
+28770204,indication_mix,Indication / diagnosis mix
+28770204,induction,Induction regimen
+28770204,maintenance_is,Maintenance IS
+28871078,age,Age
+28871078,baseline_fev1,Baseline FEV1 method
+28871078,lung_function,Lung function
+28871078,sex,Sex / gender
+28932229,acr,ACR burden
+28932229,age,Age
+28932229,cmv_dr,CMV D/R serostatus
+28932229,comorbidity,Comorbidity
+29087035,acr,ACR burden
+29087035,baseline_fev1,Baseline FEV1 method
+29146602,age,Age
+29146602,indication_mix,Indication / diagnosis mix
+29146602,procedure,Single vs bilateral
+29146602,sex,Sex / gender
+29149977,age,Age
+29149977,comorbidity,Comorbidity
+29149977,era,Era / accrual window
+29149977,indication_mix,Indication / diagnosis mix
+29149977,procedure,Single vs bilateral
+29151274,acr,ACR burden
+29151274,cmv_dr,CMV D/R serostatus
+29151274,de_novo_dsa,De novo DSA
+29300898,age,Age
+29300898,cmv_dr,CMV D/R serostatus
+29300898,hla_mismatch,HLA mismatch
+29360666,hla_mismatch,HLA mismatch
+29360666,sex,Sex / gender
+29472146,baseline_fev1,Baseline FEV1 method
+29513387,age,Age
+29513387,eplet_mm,Eplet / molecular HLA mismatch
+29533326,baseline_fev1,Baseline FEV1 method
+29603543,cmv_events,CMV infection/disease events
+29603543,colonization,Pseudomonas/Aspergillus colonization
+29804306,age,Age
+29804306,indication_mix,Indication / diagnosis mix
+29804306,ischemic_time,Ischemic time
+29804306,procedure,Single vs bilateral
+29804306,race_ethnicity,Race / ethnicity
+29804306,sex,Sex / gender
+29929823,maintenance_is,Maintenance IS
+29976654,de_novo_dsa,De novo DSA
+30053048,age,Age
+30053048,maintenance_is,Maintenance IS
+30053048,sex,Sex / gender
+30126365,acr,ACR burden
+30126365,cmv_events,CMV infection/disease events
+30126365,colonization,Pseudomonas/Aspergillus colonization
+30192029,cmv_dr,CMV D/R serostatus
+30211828,acr,ACR burden
+30211828,age,Age
+30211828,cmv_dr,CMV D/R serostatus
+30211828,cmv_events,CMV infection/disease events
+30211828,indication_mix,Indication / diagnosis mix
+30211828,race_ethnicity,Race / ethnicity
+30211828,sex,Sex / gender
+30228085,age,Age
+30228085,pgd,PGD grade
+30228085,procedure,Single vs bilateral
+30228085,race_ethnicity,Race / ethnicity
+30228085,sex,Sex / gender
+30255130,acr,ACR burden
+30255130,age,Age
+30255130,indication_mix,Indication / diagnosis mix
+30255130,maintenance_is,Maintenance IS
+30255130,procedure,Single vs bilateral
+30255131,acr,ACR burden
+30255131,maintenance_is,Maintenance IS
+30391193,age,Age
+30391193,indication_mix,Indication / diagnosis mix
+30391193,sex,Sex / gender
+30391371,age,Age
+30391371,baseline_fev1,Baseline FEV1 method
+30391371,sex,Sex / gender
+30476471,cmv_dr,CMV D/R serostatus
+30506808,age,Age
+30506808,era,Era / accrual window
+30506808,las,Lung allocation score
+30506808,sex,Sex / gender
+30527505,age,Age
+30527505,bmi,Body mass index
+30527505,las,Lung allocation score
+30527505,sex,Sex / gender
+30537897,comorbidity,Comorbidity
+30537897,induction,Induction regimen
+30537897,maintenance_is,Maintenance IS
+30537897,procedure,Single vs bilateral
+30561555,acr,ACR burden
+30561555,cmv_dr,CMV D/R serostatus
+30561555,resp_viral,Respiratory viral infections
+30645645,era,Era / accrual window
+30645645,induction,Induction regimen
+30645645,las,Lung allocation score
+30645645,sex,Sex / gender
+30663812,age,Age
+30663812,bmi,Body mass index
+30663812,sex,Sex / gender
+30692045,acr,ACR burden
+30692045,race_ethnicity,Race / ethnicity
+30692045,sex,Sex / gender
+30705675,age,Age
+30793380,acr,ACR burden
+30978332,acr,ACR burden
+30978332,age,Age
+30978332,pgd,PGD grade
+30978332,procedure,Single vs bilateral
+30978332,sex,Sex / gender
+31026404,acr,ACR burden
+31026404,age,Age
+31026404,cmv_dr,CMV D/R serostatus
+31026404,era,Era / accrual window
+31026404,indication_mix,Indication / diagnosis mix
+31026404,induction,Induction regimen
+31026404,las,Lung allocation score
+31164432,cmv_dr,CMV D/R serostatus
+31164432,hla_mismatch,HLA mismatch
+31249568,acr,ACR burden
+31249568,indication_mix,Indication / diagnosis mix
+31249568,sex,Sex / gender
+31271742,age,Age
+31271742,bmi,Body mass index
+31271742,comorbidity,Comorbidity
+31271742,donor_type,Donor type DBD/DCD
+31271742,indication_mix,Indication / diagnosis mix
+31271742,ischemic_time,Ischemic time
+31271742,race_ethnicity,Race / ethnicity
+31271742,sex,Sex / gender
+31286560,baseline_fev1,Baseline FEV1 method
+31286560,sex,Sex / gender
+31300191,acr,ACR burden
+31300191,age,Age
+31300191,cmv_events,CMV infection/disease events
+31300191,colonization,Pseudomonas/Aspergillus colonization
+31300191,induction,Induction regimen
+31300191,maintenance_is,Maintenance IS
+31300191,sex,Sex / gender
+31397939,age,Age
+31397939,cmv_dr,CMV D/R serostatus
+31397939,era,Era / accrual window
+31397939,indication_mix,Indication / diagnosis mix
+31397939,sex,Sex / gender
+31414076,acr,ACR burden
+31452317,age,Age
+31452317,cmv_dr,CMV D/R serostatus
+31452317,indication_mix,Indication / diagnosis mix
+31452317,pgd,PGD grade
+31452317,sex,Sex / gender
+31461151,age,Age
+31461151,bmi,Body mass index
+31461151,center_structure,Center structure
+31461151,cmv_dr,CMV D/R serostatus
+31461151,comorbidity,Comorbidity
+31461151,era,Era / accrual window
+31461151,hla_mismatch,HLA mismatch
+31461151,induction,Induction regimen
+31461151,maintenance_is,Maintenance IS
+31461151,procedure,Single vs bilateral
+31461151,race_ethnicity,Race / ethnicity
+31461151,sex,Sex / gender
+31494969,azithromycin,Azithromycin
+31494969,baseline_fev1,Baseline FEV1 method
+31494969,phenotyping,Phenotyping (BOS/RAS/mixed)
+31613800,age,Age
+31613800,indication_mix,Indication / diagnosis mix
+31613800,procedure,Single vs bilateral
+31613800,race_ethnicity,Race / ethnicity
+31613800,sex,Sex / gender
+31616421,acr,ACR burden
+31616421,age,Age
+31616421,cmv_events,CMV infection/disease events
+31616421,comorbidity,Comorbidity
+31696925,age,Age
+31696925,comorbidity,Comorbidity
+31696925,race_ethnicity,Race / ethnicity
+31696925,sex,Sex / gender
+31794120,acr,ACR burden
+31794120,age,Age
+31794120,bmi,Body mass index
+31794120,indication_mix,Indication / diagnosis mix
+31794120,induction,Induction regimen
+31815320,age,Age
+31815320,indication_mix,Indication / diagnosis mix
+31815320,pgd,PGD grade
+31815320,sex,Sex / gender
+31821885,donor_type,Donor type DBD/DCD
+31903646,maintenance_is,Maintenance IS
+32091450,age,Age
+32091450,bmi,Body mass index
+32091450,sex,Sex / gender
+32093612,age,Age
+32093612,sex,Sex / gender
+32150039,age,Age
+32150039,cmv_dr,CMV D/R serostatus
+32150039,era,Era / accrual window
+32150039,indication_mix,Indication / diagnosis mix
+32150039,sex,Sex / gender
+32195326,age,Age
+32195326,pgd,PGD grade
+32195326,procedure,Single vs bilateral
+32195326,sex,Sex / gender
+32381491,acr,ACR burden
+32381491,age,Age
+32381491,cmv_events,CMV infection/disease events
+32381491,de_novo_dsa,De novo DSA
+32381491,era,Era / accrual window
+32381491,indication_mix,Indication / diagnosis mix
+32381491,procedure,Single vs bilateral
+32381491,sex,Sex / gender
+32449200,maintenance_is,Maintenance IS
+32577419,acr,ACR burden
+32577419,age,Age
+32577419,era,Era / accrual window
+32577419,indication_mix,Indication / diagnosis mix
+32577419,las,Lung allocation score
+32711032,indication_mix,Indication / diagnosis mix
+32711032,pgd,PGD grade
+32725047,maintenance_is,Maintenance IS
+32725047,procedure,Single vs bilateral
+33025592,acr,ACR burden
+33025592,age,Age
+33025592,cmv_dr,CMV D/R serostatus
+33025592,era,Era / accrual window
+33025592,indication_mix,Indication / diagnosis mix
+33025592,sex,Sex / gender
+33041181,era,Era / accrual window
+33041181,induction,Induction regimen
+33057713,age,Age
+33057713,era,Era / accrual window
+33057713,induction,Induction regimen
+33057713,sex,Sex / gender
+33065051,age,Age
+33065051,comorbidity,Comorbidity
+33065051,ischemic_time,Ischemic time
+33065051,las,Lung allocation score
+33065051,procedure,Single vs bilateral
+33065051,sex,Sex / gender
+33129576,age,Age
+33129576,indication_mix,Indication / diagnosis mix
+33129576,race_ethnicity,Race / ethnicity
+33129576,sex,Sex / gender
+33146445,age,Age
+33146445,baseline_fev1,Baseline FEV1 method
+33146445,indication_mix,Indication / diagnosis mix
+33146445,sex,Sex / gender
+33209382,age,Age
+33209382,era,Era / accrual window
+33209382,indication_mix,Indication / diagnosis mix
+33233857,acr,ACR burden
+33233857,age,Age
+33233857,indication_mix,Indication / diagnosis mix
+33233857,sex,Sex / gender
+33460570,acr,ACR burden
+33460570,cmv_dr,CMV D/R serostatus
+33460570,colonization,Pseudomonas/Aspergillus colonization
+33460570,de_novo_dsa,De novo DSA
+33460570,indication_mix,Indication / diagnosis mix
+33460570,induction,Induction regimen
+33460570,maintenance_is,Maintenance IS
+33460570,pgd,PGD grade
+33460570,resp_viral,Respiratory viral infections
+33496558,baseline_fev1,Baseline FEV1 method
+33496558,de_novo_dsa,De novo DSA
+33506764,acr,ACR burden
+33506764,age,Age
+33506764,cmv_dr,CMV D/R serostatus
+33506764,comorbidity,Comorbidity
+33506764,donor_type,Donor type DBD/DCD
+33506764,ischemic_time,Ischemic time
+33506764,las,Lung allocation score
+33506764,pgd,PGD grade
+33506764,sex,Sex / gender
+33814284,acr,ACR burden
+33814284,race_ethnicity,Race / ethnicity
+33839934,age,Age
+33994181,acr,ACR burden
+33994181,indication_mix,Indication / diagnosis mix
+33994181,procedure,Single vs bilateral
+33994181,sex,Sex / gender
+34113715,acr,ACR burden
+34113715,cmv_events,CMV infection/disease events
+34113715,colonization,Pseudomonas/Aspergillus colonization
+34172463,age,Age
+34172463,cmv_dr,CMV D/R serostatus
+34172463,era,Era / accrual window
+34172463,indication_mix,Indication / diagnosis mix
+34172463,sex,Sex / gender
+34183226,age,Age
+34186034,acr,ACR burden
+34186034,comorbidity,Comorbidity
+34186034,pgd,PGD grade
+34215500,age,Age
+34215500,cmv_dr,CMV D/R serostatus
+34215500,indication_mix,Indication / diagnosis mix
+34215500,pgd,PGD grade
+34215500,sex,Sex / gender
+34226118,cmv_dr,CMV D/R serostatus
+34310850,age,Age
+34310850,las,Lung allocation score
+34319850,age,Age
+34319850,bmi,Body mass index
+34319850,procedure,Single vs bilateral
+34365656,age,Age
+34365656,cmv_dr,CMV D/R serostatus
+34365656,era,Era / accrual window
+34365656,indication_mix,Indication / diagnosis mix
+34365656,las,Lung allocation score
+34365656,sex,Sex / gender
+34384425,age,Age
+34384425,colonization,Pseudomonas/Aspergillus colonization
+34384425,indication_mix,Indication / diagnosis mix
+34384425,ischemic_time,Ischemic time
+34384425,sex,Sex / gender
+34464505,acr,ACR burden
+34464505,pgd,PGD grade
+34548197,age,Age
+34548197,indication_mix,Indication / diagnosis mix
+34548197,sex,Sex / gender
+34571454,azithromycin,Azithromycin
+34571454,cmv_dr,CMV D/R serostatus
+34571454,era,Era / accrual window
+34571454,indication_mix,Indication / diagnosis mix
+34571454,induction,Induction regimen
+34571454,maintenance_is,Maintenance IS
+34738249,acr,ACR burden
+34738249,amr,AMR
+34738249,de_novo_dsa,De novo DSA
+34738249,indication_mix,Indication / diagnosis mix
+34738249,sex,Sex / gender
+34748217,age,Age
+34748217,cmv_dr,CMV D/R serostatus
+34748217,indication_mix,Indication / diagnosis mix
+34748217,sex,Sex / gender
+34933798,age,Age
+34933798,lung_function,Lung function
+34933798,sex,Sex / gender
+35187218,acr,ACR burden
+35187218,de_novo_dsa,De novo DSA
+35187218,pgd,PGD grade
+35224623,age,Age
+35224623,bmi,Body mass index
+35224623,era,Era / accrual window
+35224623,hla_mismatch,HLA mismatch
+35224623,ischemic_time,Ischemic time
+35224623,race_ethnicity,Race / ethnicity
+35246990,age,Age
+35246990,indication_mix,Indication / diagnosis mix
+35246990,sex,Sex / gender
+35314097,age,Age
+35314097,donor_type,Donor type DBD/DCD
+35314097,indication_mix,Indication / diagnosis mix
+35314097,procedure,Single vs bilateral
+35314097,sex,Sex / gender
+35450737,age,Age
+35450737,comorbidity,Comorbidity
+35450737,donor_type,Donor type DBD/DCD
+35450737,era,Era / accrual window
+35450737,hla_mismatch,HLA mismatch
+35450737,ischemic_time,Ischemic time
+35450737,race_ethnicity,Race / ethnicity
+35450737,sex,Sex / gender
+35634722,acr,ACR burden
+35651878,acr,ACR burden
+35651878,age,Age
+35651878,indication_mix,Indication / diagnosis mix
+35651878,procedure,Single vs bilateral
+35651878,sex,Sex / gender
+35678573,de_novo_dsa,De novo DSA
+35678573,donor_type,Donor type DBD/DCD
+35678573,pgd,PGD grade
+35845547,cmv_dr,CMV D/R serostatus
+35845547,comorbidity,Comorbidity
+35845547,indication_mix,Indication / diagnosis mix
+35864004,age,Age
+35864004,bmi,Body mass index
+35864004,center_structure,Center structure
+35864004,cmv_dr,CMV D/R serostatus
+35864004,comorbidity,Comorbidity
+35876129,age,Age
+35876129,cmv_dr,CMV D/R serostatus
+35876129,indication_mix,Indication / diagnosis mix
+35876129,sex,Sex / gender
+35964254,maintenance_is,Maintenance IS
+36028826,acr,ACR burden
+36028826,age,Age
+36028826,cmv_dr,CMV D/R serostatus
+36028826,indication_mix,Indication / diagnosis mix
+36028826,sex,Sex / gender
+36201668,age,Age
+36201668,bmi,Body mass index
+36201668,procedure,Single vs bilateral
+36201668,sex,Sex / gender
+36204183,age,Age
+36204183,cmv_dr,CMV D/R serostatus
+36204183,pre_tx_dsa,Pre-tx DSA / cPRA
+36204183,sex,Sex / gender
+36216086,age,Age
+36216086,bmi,Body mass index
+36216086,cmv_dr,CMV D/R serostatus
+36216086,comorbidity,Comorbidity
+36216086,evlp,EVLP use
+36216086,gerd,GERD / aspiration
+36216086,hla_mismatch,HLA mismatch
+36216086,indication_mix,Indication / diagnosis mix
+36216086,las,Lung allocation score
+36216086,pgd,PGD grade
+36216086,race_ethnicity,Race / ethnicity
+36216086,sex,Sex / gender
+36216597,age,Age
+36216597,comorbidity,Comorbidity
+36216597,donor_type,Donor type DBD/DCD
+36216597,evlp,EVLP use
+36217992,acr,ACR burden
+36217992,azithromycin,Azithromycin
+36217992,era,Era / accrual window
+36217992,procedure,Single vs bilateral
+36223371,indication_mix,Indication / diagnosis mix
+36283951,acr,ACR burden
+36283951,age,Age
+36283951,procedure,Single vs bilateral
+36283951,sex,Sex / gender
+36309588,comorbidity,Comorbidity
+36309588,hla_mismatch,HLA mismatch
+36309588,indication_mix,Indication / diagnosis mix
+36309588,maintenance_is,Maintenance IS
+36309588,sex,Sex / gender
+36319530,age,Age
+36319530,center_structure,Center structure
+36319530,race_ethnicity,Race / ethnicity
+36319530,sex,Sex / gender
+36557592,acr,ACR burden
+36557592,cmv_dr,CMV D/R serostatus
+36557592,maintenance_is,Maintenance IS
+36557592,procedure,Single vs bilateral
+36695619,age,Age
+36695619,cmv_dr,CMV D/R serostatus
+36695619,indication_mix,Indication / diagnosis mix
+36695619,procedure,Single vs bilateral
+36695619,race_ethnicity,Race / ethnicity
+36695619,sex,Sex / gender
+36695689,cmv_dr,CMV D/R serostatus
+36695698,age,Age
+36695698,indication_mix,Indication / diagnosis mix
+36695698,race_ethnicity,Race / ethnicity
+36695698,sex,Sex / gender
+36710092,age,Age
+36710092,cmv_dr,CMV D/R serostatus
+36710092,indication_mix,Indication / diagnosis mix
+36710092,sex,Sex / gender
+36732088,center_structure,Center structure
+36732088,de_novo_dsa,De novo DSA
+36810928,age,Age
+36824294,acr,ACR burden
+36824294,indication_mix,Indication / diagnosis mix
+36824294,lung_function,Lung function
+36824294,maintenance_is,Maintenance IS
+36925381,colonization,Pseudomonas/Aspergillus colonization
+36925381,indication_mix,Indication / diagnosis mix
+36941179,acr,ACR burden
+36941179,age,Age
+36941179,cmv_events,CMV infection/disease events
+36941179,colonization,Pseudomonas/Aspergillus colonization
+36941179,de_novo_dsa,De novo DSA
+36941179,era,Era / accrual window
+36941179,sex,Sex / gender
+36996331,age,Age
+36996331,cmv_dr,CMV D/R serostatus
+36996331,comorbidity,Comorbidity
+36996331,hla_mismatch,HLA mismatch
+36996331,indication_mix,Indication / diagnosis mix
+36996331,las,Lung allocation score
+36996331,maintenance_is,Maintenance IS
+36996331,procedure,Single vs bilateral
+36996331,race_ethnicity,Race / ethnicity
+36996331,sex,Sex / gender
+37003354,acr,ACR burden
+37003354,age,Age
+37003354,azithromycin,Azithromycin
+37003354,cmv_events,CMV infection/disease events
+37003354,colonization,Pseudomonas/Aspergillus colonization
+37003354,de_novo_dsa,De novo DSA
+37003354,maintenance_is,Maintenance IS
+37003354,procedure,Single vs bilateral
+37003354,sex,Sex / gender
+37054889,acr,ACR burden
+37054889,age,Age
+37054889,de_novo_dsa,De novo DSA
+37054889,indication_mix,Indication / diagnosis mix
+37054889,sex,Sex / gender
+37073734,donor_type,Donor type DBD/DCD
+37073734,era,Era / accrual window
+37073734,evlp,EVLP use
+37073734,indication_mix,Indication / diagnosis mix
+37115007,age,Age
+37115007,pgd,PGD grade
+37115007,sex,Sex / gender
+37125386,age,Age
+37125386,comorbidity,Comorbidity
+37171893,maintenance_is,Maintenance IS
+37172694,sex,Sex / gender
+37287095,acr,ACR burden
+37287095,age,Age
+37287095,bmi,Body mass index
+37287095,cmv_dr,CMV D/R serostatus
+37287095,indication_mix,Indication / diagnosis mix
+37287095,race_ethnicity,Race / ethnicity
+37287095,sex,Sex / gender
+37305133,acr,ACR burden
+37305133,indication_mix,Indication / diagnosis mix
+37388387,age,Age
+37388387,bmi,Body mass index
+37388387,gerd,GERD / aspiration
+37389015,acr,ACR burden
+37389015,de_novo_dsa,De novo DSA
+37389015,induction,Induction regimen
+37442212,nonhla_ab,Non-HLA antibodies
+37541572,age,Age
+37541572,bmi,Body mass index
+37541572,comorbidity,Comorbidity
+37541572,procedure,Single vs bilateral
+37575951,age,Age
+37575951,cmv_dr,CMV D/R serostatus
+37575951,indication_mix,Indication / diagnosis mix
+37575951,las,Lung allocation score
+37575951,race_ethnicity,Race / ethnicity
+37575951,sex,Sex / gender
+37625646,acr,ACR burden
+37625646,age,Age
+37625646,cmv_dr,CMV D/R serostatus
+37625646,indication_mix,Indication / diagnosis mix
+37634575,donor_type,Donor type DBD/DCD
+37634575,pgd,PGD grade
+37648073,age,Age
+37648073,indication_mix,Indication / diagnosis mix
+37648073,sex,Sex / gender
+37741317,age,Age
+37741317,las,Lung allocation score
+37741317,procedure,Single vs bilateral
+37741317,sex,Sex / gender
+37741923,age,Age
+37741923,sex,Sex / gender
+37817870,age,Age
+37817870,cmv_dr,CMV D/R serostatus
+37817870,era,Era / accrual window
+37817870,indication_mix,Indication / diagnosis mix
+37817870,pgd,PGD grade
+37817870,procedure,Single vs bilateral
+37817870,sex,Sex / gender
+37904125,age,Age
+37904125,pgd,PGD grade
+37904125,procedure,Single vs bilateral
+37904125,sex,Sex / gender
+37972825,acr,ACR burden
+37972825,age,Age
+37972825,center_structure,Center structure
+37972825,era,Era / accrual window
+37972825,sex,Sex / gender
+37981213,age,Age
+37981213,cmv_dr,CMV D/R serostatus
+37981213,indication_mix,Indication / diagnosis mix
+37981213,pre_tx_dsa,Pre-tx DSA / cPRA
+37981213,sex,Sex / gender
+38117233,age,Age
+38117233,indication_mix,Indication / diagnosis mix
+38117233,las,Lung allocation score
+38117233,procedure,Single vs bilateral
+38117233,race_ethnicity,Race / ethnicity
+38117233,sex,Sex / gender
+38190701,age,Age
+38190701,indication_mix,Indication / diagnosis mix
+38190701,pgd,PGD grade
+38190701,sex,Sex / gender
+38211836,cmv_dr,CMV D/R serostatus
+38211836,pgd,PGD grade
+38211836,sex,Sex / gender
+38237809,procedure,Single vs bilateral
+38237809,sex,Sex / gender
+38264297,age,Age
+38264297,indication_mix,Indication / diagnosis mix
+38264297,procedure,Single vs bilateral
+38264297,race_ethnicity,Race / ethnicity
+38264297,sex,Sex / gender
+38307417,age,Age
+38307417,cmv_dr,CMV D/R serostatus
+38307417,era,Era / accrual window
+38307417,indication_mix,Indication / diagnosis mix
+38307417,procedure,Single vs bilateral
+38307417,sex,Sex / gender
+38521967,age,Age
+38521967,bmi,Body mass index
+38521967,gerd,GERD / aspiration
+38705500,acr,ACR burden
+38705500,age,Age
+38705500,era,Era / accrual window
+38705500,indication_mix,Indication / diagnosis mix
+38705500,pgd,PGD grade
+38705500,race_ethnicity,Race / ethnicity
+38705500,sex,Sex / gender
+38779355,amr,AMR
+38779355,de_novo_dsa,De novo DSA
+38852935,age,Age
+38924641,age,Age
+38924641,cmv_dr,CMV D/R serostatus
+38924641,indication_mix,Indication / diagnosis mix
+38924641,pre_tx_dsa,Pre-tx DSA / cPRA
+38924641,sex,Sex / gender
+38951782,amr,AMR
+38951782,de_novo_dsa,De novo DSA
+38951782,pre_tx_dsa,Pre-tx DSA / cPRA
+38953039,acr,ACR burden
+38953039,age,Age
+38953039,center_structure,Center structure
+38953039,indication_mix,Indication / diagnosis mix
+38953039,pgd,PGD grade
+38979724,age,Age
+38979724,comorbidity,Comorbidity
+38979724,procedure,Single vs bilateral
+38991901,age,Age
+38991901,bmi,Body mass index
+38991901,ischemic_time,Ischemic time
+38991901,sex,Sex / gender
+39115489,clad_staging,CLAD severity staging
+39136242,age,Age
+39136242,era,Era / accrual window
+39136242,hla_mismatch,HLA mismatch
+39136242,procedure,Single vs bilateral
+39136242,sex,Sex / gender
+39142524,cmv_dr,CMV D/R serostatus
+39142524,indication_mix,Indication / diagnosis mix
+39142524,lung_function,Lung function
+39294868,hla_mismatch,HLA mismatch
+39294868,induction,Induction regimen
+39381015,age,Age
+39381015,cmv_dr,CMV D/R serostatus
+39381015,de_novo_dsa,De novo DSA
+39381015,sex,Sex / gender
+39393626,age,Age
+39393626,hla_mismatch,HLA mismatch
+39393626,ischemic_time,Ischemic time
+39426232,age,Age
+39426232,de_novo_dsa,De novo DSA
+39426232,maintenance_is,Maintenance IS
+39437867,age,Age
+39437867,center_structure,Center structure
+39437867,era,Era / accrual window
+39437867,indication_mix,Indication / diagnosis mix
+39437867,induction,Induction regimen
+39437867,maintenance_is,Maintenance IS
+39448000,acr,ACR burden
+39448000,age,Age
+39448000,cmv_dr,CMV D/R serostatus
+39448000,de_novo_dsa,De novo DSA
+39448000,pgd,PGD grade
+39448000,procedure,Single vs bilateral
+39448000,sex,Sex / gender
+39470452,acr,ACR burden
+39470452,cmv_events,CMV infection/disease events
+39470452,de_novo_dsa,De novo DSA
+39558551,era,Era / accrual window
+39571635,age,Age
+39571635,cmv_dr,CMV D/R serostatus
+39571635,indication_mix,Indication / diagnosis mix
+39571635,pgd,PGD grade
+39571635,sex,Sex / gender
+39790585,acr,ACR burden
+39790585,age,Age
+39829718,age,Age
+39829718,cmv_dr,CMV D/R serostatus
+39829718,de_novo_dsa,De novo DSA
+39829718,eplet_mm,Eplet / molecular HLA mismatch
+39829718,hla_mismatch,HLA mismatch
+39829718,pre_tx_dsa,Pre-tx DSA / cPRA
+39829718,sex,Sex / gender
+39892791,amr,AMR
+39892791,cmv_events,CMV infection/disease events
+39892791,colonization,Pseudomonas/Aspergillus colonization
+39892791,de_novo_dsa,De novo DSA
+39892791,indication_mix,Indication / diagnosis mix
+39892791,resp_viral,Respiratory viral infections
+40117366,age,Age
+40117366,cmv_dr,CMV D/R serostatus
+40117366,sex,Sex / gender
+40144010,las,Lung allocation score
+40144010,procedure,Single vs bilateral
+40144253,age,Age
+40144727,colonization,Pseudomonas/Aspergillus colonization
+40144837,age,Age
+40144837,indication_mix,Indication / diagnosis mix
+40144837,sex,Sex / gender
+40145037,cmv_dr,CMV D/R serostatus
+40145037,induction,Induction regimen
+40145037,sex,Sex / gender
+40145051,cmv_dr,CMV D/R serostatus
+40145051,comorbidity,Comorbidity
+40278827,age,Age
+40278827,indication_mix,Indication / diagnosis mix
+40278827,sex,Sex / gender
+40300676,acr,ACR burden
+40300676,age,Age
+40300676,cmv_dr,CMV D/R serostatus
+40300676,colonization,Pseudomonas/Aspergillus colonization
+40300676,de_novo_dsa,De novo DSA
+40300676,era,Era / accrual window
+40300676,indication_mix,Indication / diagnosis mix
+40300676,las,Lung allocation score
+40300676,race_ethnicity,Race / ethnicity
+40300676,resp_viral,Respiratory viral infections
+40300676,sex,Sex / gender
+40330662,age,Age
+40330662,sex,Sex / gender
+40404215,age,Age
+40404215,comorbidity,Comorbidity
+40404215,ischemic_time,Ischemic time
+40590009,center_structure,Center structure
+40590009,procedure,Single vs bilateral
+40590009,race_ethnicity,Race / ethnicity
+40599904,acr,ACR burden
+40599904,amr,AMR
+40698562,acr,ACR burden
+40698562,age,Age
+40698562,cmv_dr,CMV D/R serostatus
+40698562,era,Era / accrual window
+40698562,indication_mix,Indication / diagnosis mix
+40811102,age,Age
+40811102,indication_mix,Indication / diagnosis mix
+40811102,sex,Sex / gender
+40838823,age,Age
+40838823,sex,Sex / gender
+40881742,bmi,Body mass index
+40881742,procedure,Single vs bilateral
+41058980,age,Age
+41058980,amr,AMR
+41058980,cmv_events,CMV infection/disease events
+41058980,pre_tx_dsa,Pre-tx DSA / cPRA
+41112061,age,Age
+41112061,indication_mix,Indication / diagnosis mix
+41112061,race_ethnicity,Race / ethnicity
+41112061,sex,Sex / gender
+41134996,acr,ACR burden
+41134996,age,Age
+41134996,donor_type,Donor type DBD/DCD
+41134996,era,Era / accrual window
+41134996,sex,Sex / gender
+41158494,acr,ACR burden
+41158494,age,Age
+41158494,amr,AMR
+41158494,pgd,PGD grade
+41158494,sex,Sex / gender
+41217841,age,Age
+41217841,indication_mix,Indication / diagnosis mix
+41217841,race_ethnicity,Race / ethnicity
+41217841,sex,Sex / gender
+41337937,cmv_events,CMV infection/disease events
+41337937,de_novo_dsa,De novo DSA
+41337937,procedure,Single vs bilateral
+41342001,acr,ACR burden
+41342001,age,Age
+41342001,amr,AMR
+41342001,colonization,Pseudomonas/Aspergillus colonization
+41342001,de_novo_dsa,De novo DSA
+41415034,acr,ACR burden
+41415034,age,Age
+41453696,age,Age
+41453696,cmv_dr,CMV D/R serostatus
+41453696,colonization,Pseudomonas/Aspergillus colonization
+41453696,sex,Sex / gender
+41574224,cmv_dr,CMV D/R serostatus
+41574224,cmv_events,CMV infection/disease events
+41574224,comorbidity,Comorbidity
+41574224,maintenance_is,Maintenance IS
+41619918,age,Age
+41619918,procedure,Single vs bilateral
+41619918,race_ethnicity,Race / ethnicity
+41619918,sex,Sex / gender
+41624215,acr,ACR burden
+41624215,cmv_events,CMV infection/disease events
+41624215,de_novo_dsa,De novo DSA
+41624215,hla_mismatch,HLA mismatch
+41624215,las,Lung allocation score
+41672090,pgd,PGD grade
+41738136,age,Age
+41738136,indication_mix,Indication / diagnosis mix
+41738136,procedure,Single vs bilateral
+41738136,race_ethnicity,Race / ethnicity
+41738136,sex,Sex / gender
+41798058,age,Age
+41798058,bmi,Body mass index
+41798058,era,Era / accrual window
+41798058,sex,Sex / gender
+41864285,age,Age
+41864285,sex,Sex / gender
+42153608,de_novo_dsa,De novo DSA
+42256236,age,Age
+42256236,sex,Sex / gender
+42309233,ischemic_time,Ischemic time
